@@ -125,7 +125,7 @@ include('includes/header.php');
                     </div>
                     <h3 class="text-xl font-bold text-white mb-3">Global Export & Terms</h3>
                     <p class="text-slate-400 text-sm leading-relaxed">
-                        Flexible shipping terms (FOB, C&F) with low minimum MOQs starting from 2400 pcs ++ per style (Depends). <br>LC at sight,TT 50/50 OR 60/40,TT ON COD.
+                        Flexible shipping terms (FOB, C&F) with low minimum MOQs starting from 2400 pcs ++ per style (Depends). <br> <br>LC at sight,TT 50/50 or 60/40 & TT ON COD.
                     </p>
                 </div>
 
