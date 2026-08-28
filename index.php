@@ -74,7 +74,7 @@ include('includes/header.php');
             </div>
             <div>
                 <h3 class="text-4xl font-extrabold text-white">3,000+</h3>
-                <p class="text-sky-400 text-xs font-semibold uppercase tracking-wider mt-1">MOQ / Style</p>
+                <p class="text-sky-400 text-xs font-semibold uppercase tracking-wider mt-1">MCQ/MOQ 800/2400 PCS (Depends)</p>
             </div>
             <div>
                 <h3 class="text-4xl font-extrabold text-white">Global</h3>
@@ -101,7 +101,8 @@ include('includes/header.php');
                     </div>
                     <h3 class="text-xl font-bold text-white mb-3">Versatile Products</h3>
                     <p class="text-slate-400 text-sm leading-relaxed">
-                        Tees, Polos, Denim, Jackets, Workwear, Sweaters, and Sportswear for Men, Women & Kids.
+                        <!-- Tees, Polos, Denim, Jackets, Workwear, Sweaters, and Sportswear for Men, Women & Kids. -->
+                        Tees,Polos,Sweat shirts,Hoodies,Shorts,Pants,Tanks,Vest,Casual & semi casul & Dress shirts,Blouse,Jackets,padded Jacktes,Denim pants,shorts,Woven Bottom,Hiking shirts,shorts,pants,Workwear and corporate wear,Sportswear and sweaters in mens,womens & kids.
                     </p>
                 </div>
 
