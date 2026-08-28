@@ -113,7 +113,8 @@ include('includes/header.php');
                     </div>
                     <h3 class="text-xl font-bold text-white mb-3">Certified Safety</h3>
                     <p class="text-slate-400 text-sm leading-relaxed">
-                        Partnered exclusively with WRAP, BSCI, Oeko-Tex, and Sedex compliant factories.
+                        <!-- Partnered exclusively with WRAP, BSCI, Oeko-Tex, and Sedex compliant factories. -->
+                        LEED,CTPAT,WRAP,HIGGS,BSCI,OEKO-TEX,GREEN,SEDEX,RSC ETC AS BUYER REQUIRED COMPLIANT FACTORIES.
                     </p>
                 </div>
 
@@ -122,9 +123,9 @@ include('includes/header.php');
                     <div class="w-14 h-14 rounded-2xl bg-purple-500/10 flex items-center justify-center text-purple-400 text-2xl mb-6">
                         <i class="fa-solid fa-globe"></i>
                     </div>
-                    <h3 class="text-xl font-bold text-white mb-3">Global Export</h3>
+                    <h3 class="text-xl font-bold text-white mb-3">Global Export & Terms</h3>
                     <p class="text-slate-400 text-sm leading-relaxed">
-                        Flexible shipping terms (FOB, C&F) with low minimum MOQs starting from 3,000 pcs per style.
+                        Flexible shipping terms (FOB, C&F) with low minimum MOQs starting from 2400 pcs ++ per style (Depends). <br>LC at sight,TT 50/50 OR 60/40,TT ON COD.
                     </p>
                 </div>
 
